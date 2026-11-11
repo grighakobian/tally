@@ -4,7 +4,7 @@
 
 Soft, pressable keys. A glowing seven-segment LCD. Real desk-calculator clicks. Tally makes everyday math feel like the calculator on your desk.
 
-<img src="assets/app-light.jpg" alt="Tally in light mode showing 1536" width="220"> <img src="assets/app-dark.jpg" alt="Tally in dark mode showing 1536" width="220"> <img src="assets/widget.jpg" alt="The Tally widget on the iPhone Home Screen" width="220">
+<img src="assets/app-light.png" alt="Tally in light mode showing 1536" width="220"> <img src="assets/app-dark.png" alt="Tally in dark mode showing 1536" width="220"> <img src="assets/widget.png" alt="The Tally widget on the iPhone Home Screen" width="220">
 
 ## Features
 

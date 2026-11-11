@@ -46,4 +46,4 @@ Questions about privacy? Visit the [Support page](support.md).
 
 ---
 
-[Overview](index.md) · [Support](support.md)
+[Overview](README.md) · [Support](support.md)

@@ -41,4 +41,4 @@ No. See the [Privacy Policy](privacy.md).
 
 ---
 
-[Overview](index.md) · [Privacy Policy](privacy.md)
+[Overview](README.md) · [Privacy Policy](privacy.md)

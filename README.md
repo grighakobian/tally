@@ -19,12 +19,12 @@
 
 ## Features
 
-- **Feels real.** Neumorphic keys press in when you tap them, with optional desk-calculator click sounds and haptics.
-- **Scientific mode.** Turn your phone sideways for trig, powers, roots, logarithms, parentheses and degrees/radians.
-- **Home Screen widgets.** Calculate right from your Home Screen with interactive widgets — no need to open the app.
-- **Memory & history.** MC, MR, M+ and M−, plus a history of results you can tap to reuse on larger screens.
-- **Copy & paste.** Long-press the display to copy a result or paste a number from anywhere.
-- **Everywhere you are.** iPhone, iPad, Mac, Apple Watch and Android, in Light and Dark Mode.
+- 🎹 **Feels real.** Neumorphic keys press in when you tap them, with optional desk-calculator click sounds and haptics.
+- 🧪 **Scientific mode.** Turn your phone sideways for trig, powers, roots, logarithms, parentheses and degrees/radians.
+- 📱 **Home Screen widgets.** Calculate right from your Home Screen with interactive widgets — no need to open the app.
+- 🧠 **Memory & history.** MC, MR, M+ and M−, plus a history of results you can tap to reuse on larger screens.
+- 📋 **Copy & paste.** Long-press the display to copy a result or paste a number from anywhere.
+- 🌗 **Everywhere you are.** iPhone, iPad, Mac, Apple Watch and Android, in Light and Dark Mode.
 
 ---
 

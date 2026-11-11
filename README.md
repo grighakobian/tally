@@ -14,7 +14,7 @@
 <p align="center">
   <img src="assets/app-light.png" alt="Tally in light mode showing 1536" width="30%">
   <img src="assets/app-dark.png" alt="Tally in dark mode showing 1536" width="30%">
-  <img src="assets/widget.png" alt="The large Tally widget on the iPhone Home Screen showing 1536" width="30%">
+  <img src="assets/widget-large.png" alt="The large Tally widget on the iPhone Home Screen showing 1536" width="30%">
 </p>
 
 ## Features

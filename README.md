@@ -28,4 +28,6 @@
 
 ---
 
-[Privacy Policy](privacy.md) · [Support](support.md) · Questions or bug reports: [open an issue](https://github.com/grighakobian/tally/issues/new)
+<p align="center">
+  <a href="privacy.md">Privacy Policy</a> · <a href="support.md">Support</a> · Questions or bug reports: <a href="https://github.com/grighakobian/tally/issues/new">open an issue</a>
+</p>

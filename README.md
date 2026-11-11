@@ -17,7 +17,7 @@
   <img src="assets/widget-large.png" alt="The large Tally widget on the iPhone Home Screen showing 1536" width="30%">
 </p>
 
-## Features
+<h2 align="center">Features</h2>
 
 - 🎹 **Feels real.** Neumorphic keys press in when you tap them, with optional desk-calculator click sounds and haptics.
 - 🧪 **Scientific mode.** Turn your phone sideways for trig, powers, roots, logarithms, parentheses and degrees/radians.

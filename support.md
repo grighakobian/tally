@@ -1,7 +1,3 @@
----
-title: Support — Tally
----
-
 # Support
 
 Help with Tally on iPhone, iPad, Mac, Apple Watch and Android.
@@ -41,8 +37,8 @@ Yes. Type digits and `+ − * / ^ ( ) %`, press Return or `=` for the result, De
 
 ### Does Tally collect my data?
 
-No. See the [Privacy Policy](privacy.html).
+No. See the [Privacy Policy](privacy.md).
 
 ---
 
-[Overview](./) · [Privacy Policy](privacy.html)
+[Overview](index.md) · [Privacy Policy](privacy.md)

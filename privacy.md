@@ -1,7 +1,3 @@
----
-title: Privacy Policy — Tally
----
-
 # Privacy Policy
 
 _Last updated: November 11, 2026_
@@ -46,8 +42,8 @@ If this policy changes, the updated version will be posted on this page with a n
 
 ## Contact
 
-Questions about privacy? Visit the [Support page](support.html).
+Questions about privacy? Visit the [Support page](support.md).
 
 ---
 
-[Overview](./) · [Support](support.html)
+[Overview](index.md) · [Support](support.md)

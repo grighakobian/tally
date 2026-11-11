@@ -1,7 +1,3 @@
----
-title: Tally — Calculator
----
-
 <img src="assets/icon.png" alt="Tally app icon" width="120">
 
 # A calculator you’ll love to touch
@@ -21,4 +17,4 @@ Soft, pressable keys. A glowing seven-segment LCD. Real desk-calculator clicks. 
 
 ---
 
-[Privacy Policy](privacy.html) · [Support](support.html)
+[Privacy Policy](privacy.md) · [Support](support.md)

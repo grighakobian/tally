@@ -1,10 +1,21 @@
-<img src="assets/icon.png" alt="Tally app icon" width="120">
+<p align="center">
+  <img src="assets/icon.png" alt="Tally app icon" width="120">
+</p>
 
-# A calculator you’ll love to touch
+<h1 align="center">Tally</h1>
 
-Soft, pressable keys. A glowing seven-segment LCD. Real desk-calculator clicks. Tally makes everyday math feel like the calculator on your desk.
+<h3 align="center">A calculator you’ll love to touch</h3>
 
-<img src="assets/app-light.png" alt="Tally in light mode showing 1536" width="220"> <img src="assets/app-dark.png" alt="Tally in dark mode showing 1536" width="220"> <img src="assets/widget.png" alt="The Tally widget on the iPhone Home Screen" width="220">
+<p align="center">
+  Soft, pressable keys. A glowing seven-segment LCD. Real desk-calculator clicks.<br>
+  Tally makes everyday math feel like the calculator on your desk.
+</p>
+
+<p align="center">
+  <img src="assets/app-light.png" alt="Tally in light mode showing 1536" width="220">
+  <img src="assets/app-dark.png" alt="Tally in dark mode showing 1536" width="220">
+  <img src="assets/widget.png" alt="The Tally widget on the iPhone Home Screen" width="220">
+</p>
 
 ## Features
 
